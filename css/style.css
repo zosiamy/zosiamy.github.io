@@ -1,0 +1,24 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@300;400;700;900&display=swap');
+body{
+    font-family: 'Lato', sans-serif;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background: rgb(251,222,63);
+    background: linear-gradient(45deg, rgba(251,222,63,1) 0%, rgba(252,70,107,1) 100%);
+}
+header{
+    text-align: center;
+    color: white;
+    padding: 4rem 0;
+}
+.main{
+    background-color: white;
+    padding: 1rem;
+    margin: 1rem;
+}
+
+footer{
+    color: white;
+    text-align: center;
+}
